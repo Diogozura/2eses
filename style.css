@@ -10,11 +10,12 @@ main{
 
 }
 .logo{
-    width: 400px;
+    max-width: 400px;
     margin: 2em  0;
 }
 #easy-bank>p{
-    width: 570px;
+    max-width: 570px;
+    padding: 10px;
     margin-left: auto;
     margin-right: auto;
 
